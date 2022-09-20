@@ -3,5 +3,5 @@
 
 - ``Dart``
 - ``Flutter``
-- ``Clean Architeture``
+- ``Clean Architeture Básico``
 - ``BloC``
